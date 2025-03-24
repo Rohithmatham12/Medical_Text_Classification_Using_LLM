@@ -123,6 +123,6 @@ This project demonstrates the potential of LLMs for automated medical text class
 
 ## Contact
 
-[Your Name] - [Your Email] - [Your LinkedIn Profile (Optional)]
+[Rohith Matam] - [rohithmatham@gmail.com] - [https://www.linkedin.com/in/rohith-matam/] - [https://rohithmatham12.github.io/Portfolio/]
 
 Feel free to reach out if you have any questions or suggestions!
